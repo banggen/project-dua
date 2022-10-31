@@ -1,0 +1,36 @@
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: #eaeaea;
+	box-sizing: border-box;
+}
+
+header {
+	background-color: skyblue;
+	overflow: auto;
+}
+
+header img{
+	padding: 10px;
+	float: right;
+}
+
+header p {
+	float: right;
+	font-size: 40px;
+	padding-top: 40px;
+	padding-top: 5px;
+}
+
+nav{
+	background-color: lightcyan;
+	height: 30px
+	padding: 5px;
+}
+
+nav a {
+	padding: 10px;
+	text-decoration: none;
+	display: 
+}
+
